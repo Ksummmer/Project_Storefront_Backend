@@ -1,0 +1,16 @@
+{
+    "dev": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "lets_surf",
+      "user": "surfer",
+      "password": "password123"
+    },
+    "test": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "lets_surf_test",
+      "user": "surfer",
+      "password": "password123"
+    }
+  }
